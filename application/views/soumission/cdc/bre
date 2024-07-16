@@ -1,0 +1,22 @@
+  let but = document.querySelectorAll(".sony")
+    but.addEventListener("click",(e)=>{
+      e.preventDefault()
+    //  let v1= document.querySelector(".one")
+    // let tabv1=[];
+    //  for (let i = 0; i < v1.length; i++) {
+    //   if (v1[i].checked==="true") 
+    //    {
+    //      tabv1.push(v1[i].checked)
+    //    } else {
+    //      tabv1.push(v1[i].checked)
+    //   }
+    //  $.ajax({
+    //     type:"post",
+    //     url:"<?php// echo base_url("")?>",
+    //      data:{},
+    //      success:function(){
+    //        v1[i].checked=false
+    //      }
+    //    })
+    //  }
+     })
